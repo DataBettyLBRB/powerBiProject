@@ -1,0 +1,4 @@
+PyAutoGUI>=0.9.53
+pywebio>=1.6.1
+Flask>=2.1.2
+Pillow>=8.2.0
